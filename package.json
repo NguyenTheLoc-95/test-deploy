@@ -1,7 +1,7 @@
 {
   "name": "booking",
   "version": "0.1.0",
-  "homepage": "https://github.com/locntfx50150/test-deploy.git",
+  "homepage": "https://locntfx50150.github.io/test-deploy/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
