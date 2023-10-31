@@ -1,0 +1,57 @@
+ .home_page div{
+  max-width: 95%;
+ margin: 0 auto;
+} 
+
+.h2style{
+  width: 800px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.header {
+  background-color:rgba(2, 2, 160, 0.904);
+  color: aliceblue;
+  border-radius: 10px;
+}
+.citys{
+  display: flex;
+  justify-content: space-between;
+  width: 800px;
+ padding-top: 100px;
+}
+.type {
+  display: flex;
+  justify-content: space-between;
+  width: 800px;
+ 
+}
+
+.hotels{
+  display: flex;
+  justify-content: space-between;
+  width: 800px;
+ 
+  padding-bottom: 50px;
+}
+.forms{
+  width: 100%;
+  display: grid;
+  justify-content: center;
+  line-height: 3.2rem;
+  margin: 20px 0;
+  padding: 50px 0;
+  background-color: rgba(2, 2, 160, 0.904);
+  border-radius: 10px;
+  color: aliceblue;
+  align-items: center;
+  text-align: center;
+  
+}
+.footer{
+  padding-top: 50px;
+  display: flex;
+  width: 800px;
+ justify-content: space-between;
+ 
+}

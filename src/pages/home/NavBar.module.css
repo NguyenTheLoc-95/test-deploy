@@ -1,0 +1,36 @@
+.navbar {
+  width: 800px;
+  line-height: 5rem;
+}
+.homepage_item {
+  display: flex;
+  text-align: right;
+  border-radius: 12px;
+  justify-content: space-between;
+  
+}
+.homepage_item h3 {
+font-family: sans-serif;
+  color: #0db6d4;
+  font-size: 20px;
+  margin: 0;
+}
+.homepage_item button {
+  font-family: sans-serif;
+  color: black;
+  padding: 10px 8px;
+  border: none;
+  border-radius: 3px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.iconnav {
+  padding-right: 30px;
+  cursor: pointer;
+  font-family: sans-serif;
+  cursor: pointer;
+  width: 100px;
+}
+.homepage_item button:hover {
+  background-color: cornflowerblue;
+}

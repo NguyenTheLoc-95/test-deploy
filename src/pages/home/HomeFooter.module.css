@@ -1,0 +1,15 @@
+.row{
+    line-height: 2rem;
+}
+.row li {
+    list-style-type: none;
+    font-family: sans-serif;
+    color: blue;
+    cursor: pointer;
+}
+.row li:active{
+    color: #aff3ff;
+  
+
+}
+

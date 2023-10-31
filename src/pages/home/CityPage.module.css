@@ -1,0 +1,25 @@
+.city{
+display: flex;
+position: relative;
+}
+
+.name{
+position: absolute;
+color: white;
+font-family: sans-serif;
+left: 10px;
+bottom: 15px;
+}
+.name h3{
+font-size: 32px;
+
+}
+.name p{
+    font-size: 20px;
+}
+.image{
+    width: 250px;
+    height: auto;
+   border-radius: 8px;
+    display: block;
+}
